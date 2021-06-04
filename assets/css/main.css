@@ -5259,3 +5259,8 @@ body.is-navPanel-visible #navPanel {
 .head-ban {
   color: white;
 }
+
+#form-container {
+  width: 80% !important;
+  margin: auto;
+}
